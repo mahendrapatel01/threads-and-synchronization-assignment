@@ -1,0 +1,10 @@
+How to run these program
+------------------------
+-> enter make command to compile the program
+-> enter make run command to run the both program
+(you can change the nofThread variable to pass the cmd argument for nthreads.c )
+
+References
+----------
+->https://www.geeksforgeeks.org/mutex-lock-for-linux-thread-synchronization/
+->https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html

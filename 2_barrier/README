@@ -1,0 +1,10 @@
+How to run the program
+----------------------
+
+-> run make command to compile 
+-> run make run command to execute the program
+(you can change exit(1)->exit(0) in testcases.c files so that it can run all testcase without any error )
+
+References:
+-----------
+-> https://www.cse.iitb.ac.in/~mythili/teaching/cs744_autumn2017/references/LittleBookOfSemaphores.pdf

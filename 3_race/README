@@ -1,0 +1,9 @@
+How to run the program
+----------------------
+
+-> run make command to compile 
+-> run make run command to execute the program
+
+References:
+-----------
+-> https://www.cse.iitb.ac.in/~mythili/teaching/cs744_autumn2017/references/LittleBookOfSemaphores.pdf
